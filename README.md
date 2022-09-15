@@ -7,27 +7,33 @@ Building an NFT project that allows an African Music charting platform to put up
 - Solidity
 - Open Zeppelin's ERC721, and ERC721URI classes
 - Polygon Mumbai
+- Ankr as RPC Provider
 - IPFS & [Web3.Storage](https://web3.storage/account/)(uploading image & JSON file)
+![web3.storage](./Screenshot%20(14).png)
 
 ## Live Demo
 
 ### Deployed & Verified Contract
 
 - [Polygon Scan](https://mumbai.polygonscan.com/address/0x40F6B0C7dA9ed23c388f8774b13E5f03D9Fac31D)
-<!-- ![screenshot](./Screenshot%20(43).png) -->
+![screenshot](./Screenshot%20(41).png)
 
 ### To interact with Contract via SafeMint
 
 - Enter your Address like:
   `0x34d9297629323795CE29190159206cDD81e6B2d2`
 - Enter media like: `https://ipfs.io/ipfs/bafybeia4at35pnopmqrtheugiszi2pxmpfv5qq2z4sdafxwhodforq7dla/metadata1.json`
-<!-- ![screenshot](./Screenshot%20(44).png) -->
 
-<!-- ### NFT on OpenSea Testnet -->
+![screenshot](./Screenshot%20(4).png)
 
-<!-- [OpenSea Testnet](https://testnets.opensea.io/account?tab=collected) -->
+### NFT on OpenSea Testnet
 
-<!-- ![screenshot](./Screenshot%20(42).png) -->
+[OpenSea Testnet](https://testnets.opensea.io/0x34d9297629323795CE29190159206cDD81e6B2d2?tab=collected)
+
+![screenshot](./opensea.png)
+
+### Video Demo
+- [Video](https://www.loom.com/share/9dbdf84727584168bb71e0b97f8ebf42)
 
 ## Getting Started
 
@@ -78,4 +84,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgment
 
-I hereby acknowledge the [Encode Club](https://medium.com/encode-club) and [EthSafari](http://ethsafari.xyz) in collaboration with [Covalent API](https://www.covalenthq.com/) for organizing this hackathon.
+I hereby acknowledge the [Encode Club](https://medium.com/encode-club) and [EthSafari](http://ethsafari.xyz) for organizing this hackathon.
