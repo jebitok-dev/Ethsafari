@@ -20,7 +20,7 @@ Building an NFT project that allows an African Music charting platform to put up
 
 - Enter your Address like:
   `0x34d9297629323795CE29190159206cDD81e6B2d2`
-- Enter media like: `https://ipfs.io/ipfs/bafybeie7durvevhi2endcfuy4osmhwfnuv23wsd6yk53sjg6vlkz2a5eay/metadata.json`
+- Enter media like: `https://ipfs.io/ipfs/bafybeia4at35pnopmqrtheugiszi2pxmpfv5qq2z4sdafxwhodforq7dla/metadata1.json`
 <!-- ![screenshot](./Screenshot%20(44).png) -->
 
 <!-- ### NFT on OpenSea Testnet -->

@@ -1,0 +1,15 @@
+{
+  "name": "AfroFusion ERC721 NFT",
+  "description": "Contract for song covers for music charts",
+  "image": "https://ipfs.io/ipfs/bafybeifclanh4nmeusbvteul4f5rigjt634mcvipbijqcn3tjr7wfe5jwq/badtome.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Developer",
+      "value": "Sharon Jebitok"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://ankr.com"
+    }
+  ]
+}
