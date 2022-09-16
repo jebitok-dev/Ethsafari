@@ -33,7 +33,7 @@ Building an NFT project that allows an African Music charting platform to put up
 ![screenshot](./opensea.png)
 
 ### Video Demo
-- [Video](https://www.loom.com/share/9dbdf84727584168bb71e0b97f8ebf42)
+- [Video](https://www.loom.com/share/81bfda38d1de49cdace4d6a4c7288816)
 
 ## Getting Started
 
